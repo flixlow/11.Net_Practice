@@ -2,7 +2,7 @@
 
 # NetPractice
 
-## Overview
+## Description
 
 NetPractice is a hands-on learning project from the 42 curriculum that helps students build practical understanding of how computer networks work.
 
@@ -10,7 +10,7 @@ The main objective is to learn how network devices (hosts, routers, switches) co
 
 The project also trains students to diagnose network misconfigurations: when a communication fails, identify the root cause and correct the configuration.
 
-## Getting started
+## Instructions
 
 1. Download and extract the project archive to a folder of your choice.
 2. From the project root, run the launcher script:
@@ -21,7 +21,7 @@ The project also trains students to diagnose network misconfigurations: when a c
 
 This script starts a local web server and opens the NetPractice interface in your browser.
 
-## Using the interface
+## How to run the training interface
 
 - In the **Training** tab, enter your intranet login to generate a personalized configuration.
 - In the **Evaluation** tab, generate a random configuration for practice or assessment.
